@@ -191,6 +191,8 @@
 
 ## 面试指南
 
+## :musical_note: 面试必备(Essential content for the interview)
+
 ### 备战面试
 
 * [【备战面试1】程序员的简历就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)
